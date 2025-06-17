@@ -53,7 +53,9 @@ To create a **technology-powered, gamified platform** where users monitor, nurtu
 
 ## 🧠 Machine Learning Model
 
-- **Type**: Convolutional Neural Network (CNN)  
+![image](https://github.com/user-attachments/assets/58136ce0-0a90-488d-a0c0-c21deb8c470a)
+
+- **Type**: ResNet18 Convolutional Neural Network (CNN)  
 - **Framework**: PyTorch (trained via Google Colab)  
 - **Classes**:
   - `succulent`
