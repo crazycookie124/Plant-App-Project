@@ -91,12 +91,12 @@ User Uploads Plant Photo
 
 ### 📁 File Structure
 ```plaintext
-plant_api/
+Plant_api/
 ├── app.py                  # Flask API endpoint
 ├── plant_cnn_model.pth     # Trained PyTorch model
 ├── test.py                 # Classification test script
 
-UE5_Project/
+CommunityPlant/
 ├── Content/
 │   ├── Sprites/            # Pixel-style plant avatars
 │   └── Blueprints/         # Watering + Health UI logic
